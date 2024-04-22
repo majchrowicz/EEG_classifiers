@@ -1,2 +1,3 @@
 # EEG_classifiers
-Testing classifiers of conscious state in electroencephalogaphic data
+Decoding conscious states from electroencephalographic data using various classifiers.
+Paper available on request.
